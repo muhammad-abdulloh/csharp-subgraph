@@ -1,0 +1,9 @@
+# compiled items
+bin
+obj
+
+# test ignore
+__snapshots__/__mismatch__
+
+# generated schema
+schema.graphqls
